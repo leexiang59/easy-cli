@@ -1,7 +1,7 @@
 module.exports = {
   "pc-front": {
     url: "https://github.com/leexiang59/form-design",
-    git: "https://github.com/leexiang59/form-design.git",
+    git: "https://github.com:leexiang59/form-design#main",
     description: "PC端业务端模板",
   },
   "pc-admin": {
